@@ -1,0 +1,11 @@
+---
+---
+
+@import "minima";
+
+li.task-list-item{
+  list-style-type: none;
+}
+li.task-list-item > input{
+  margin-left: -1.8em;
+}
