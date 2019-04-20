@@ -23,5 +23,7 @@ Customize some styles and tidy up this blog
 I haven't added any overrides here yet. To figure out what to replace I can look in the theme's [[source](https://github.com/jekyll/minima/)] 
 - [ ] `images`  
 As above, I need to work the images into the layout of the site. maybe use front matter variables?
+- [ ] `menu`  
+Set up a collection for menu items, override _includes/header.html  
 - [ ] [`disqus`](https://disqus.com/admin/install/platforms/jekyll/)  
 I'm strongly considering adding disqus comments. Comments are one silk thread that weaves this social web.
