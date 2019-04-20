@@ -12,6 +12,10 @@ permalink: /projects/
 
 [zoe-feedlog](https://zoe-feedlog.herokuapp.com/)
 : tracking when my pet friend was last fed
+: can track many pets
+
+[stockpot]()
+: keep up the feeding
 
 [changewear.com](https://changewear.com)
 : shopify development
