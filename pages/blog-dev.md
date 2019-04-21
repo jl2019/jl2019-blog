@@ -27,3 +27,9 @@ As above, I need to work the images into the layout of the site. maybe use front
 Set up a collection for menu items, override _includes/header.html  
 - [ ] [`disqus`](https://disqus.com/admin/install/platforms/jekyll/)  
 I'm strongly considering adding disqus comments. Comments are one silk thread that weaves this social web.
+- [ ] `changelog.md`  
+start a changelog and standardize messaging formats.
+```
+workflow:
+tasklist -> changelog -> release notes
+```
