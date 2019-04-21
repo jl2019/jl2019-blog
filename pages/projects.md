@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Projects
+date: 2019-04-20
 permalink: /projects/
 ---
+Last Modified: {{ page.date | date: "%b %d, %Y" }}
 
 > No eternal reward will forgive us now for wasting the dawn.  
 > ~ JM
@@ -16,6 +18,9 @@ permalink: /projects/
 
 [stockpot]()
 : keep up the feeding
+
+[monster shuffle]()
+: chrome browser extension to load newtabs with generated monsters
 
 [changewear.com](https://changewear.com)
 : shopify development
