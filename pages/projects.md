@@ -7,7 +7,7 @@ permalink: /projects/
 > No eternal reward will forgive us now for wasting the dawn.  
 > ~ JM
 
-[jl2019-blog](/)
+[jl2019-blog](https://jl2019-blog.herokuapp.com/)
 : this blog
 
 [zoe-feedlog](https://zoe-feedlog.herokuapp.com/)
