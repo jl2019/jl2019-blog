@@ -1,0 +1,23 @@
+/**
+ * content styles
+ */
+
+.page-content > .wrapper > *{
+  padding: 1em 1.5em;
+  background: rgba(255,255,255,.7);
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, .7) 0%, rgba(255, 0, 255, .2) 100%);
+  box-shadow: 3pt 3pt 6pt rgba(0,0,0,.5);
+  animation-duration: 372ms;
+  animation-name: fadein;
+}
+
+.post-title{
+  animation-name: titleflash;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+}
+
+@media screen and (max-width: 600px){
+  .page-content{
+  }
+}

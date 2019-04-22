@@ -1,0 +1,48 @@
+/**
+ * reusable animations
+ */
+
+@keyframes fadein{
+  0% {
+    opacity: 0;
+  }
+  70%{
+  }
+  80%{
+    opacity: .95;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes titleflash{
+  0%{
+    color: rgba(255,255,255,0);
+    text-shadow: 
+      0pt  0pt 1pt rgba(0,0,0,.5),
+     -0pt  0pt 1pt rgba(255,255,0,1),
+     -0pt -0pt 1pt rgba(0,255,255,1),
+      0pt -0pt 1pt rgba(255,0,255,1)
+    ;
+  }
+  50%{
+    text-shadow: 
+       20pt  30pt 2pt rgba(0,0,0,.5),
+      -20pt  30pt 2pt rgba(255,255,0,.5),
+      -20pt -30pt 2pt rgba(0,255,255,.5),
+       20pt -30pt 2pt rgba(255,0,255,.5)
+    ;
+  }
+  90%{
+    text-shadow: 
+       0pt  20pt 10pt rgba(0,0,0,0),
+      -0pt  20pt 10pt rgba(0,0,0,0),
+      -0pt -20pt 10pt rgba(0,0,0,0),
+       0pt -20pt 10pt rgba(0,0,0,0)
+    ;
+  }
+  100% {
+    color: rgba(0,0,0,1);
+  }
+}

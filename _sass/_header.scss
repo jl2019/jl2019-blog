@@ -1,0 +1,30 @@
+/**
+ * header styles
+ */
+
+.site-header{
+  padding: 1em 14em;
+  background: rgba(255,0,255,.5);
+
+  .site-title{
+    text-shadow: 3pt 4pt 4pt rgba(0,0,0,.2);
+    &:hover{
+      text-decoration: none;
+      text-shadow: 2pt 2pt 3pt rgba(0,0,0,.3);
+    }
+    &:before{
+      content: "\2388";
+      padding-right: 3pt;
+    }
+  }
+}
+
+@media screen and (max-width: 600px){
+  .site-header{
+    padding: 0;
+    background: rgba(255,255,255,.3);
+    .site-nav {
+      color: red;
+    }
+  }
+}
