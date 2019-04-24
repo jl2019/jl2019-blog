@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog Developments
-date: 2019-04-20
+date: 2019-04-23
 permalink: /dev-notes/
 ---
 Last Modified: {{ page.date | date: "%b %d, %Y" }}
@@ -33,3 +33,6 @@ start a changelog and standardize messaging formats.
 workflow:
 tasklist -> changelog -> release notes
 ```
+- [x] `collections`  
+Create some collections to keep quotes, books, etc.  
+

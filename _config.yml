@@ -35,6 +35,19 @@ webrick:
   headers:
     Developed-by: JL2019 <joga.luce.2019@gmail.com>
 
+# Content settings
+collections:
+  quotes:
+    output: true
+    permalink: /quotes/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: "quotes"
+    values:
+      layout: "default"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
