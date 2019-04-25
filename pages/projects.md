@@ -16,11 +16,14 @@ Last Modified: {{ page.date | date: "%b %d, %Y" }}
 : tracking when my pet friend was last fed
 : can track many pets
 
-[stockpot]()
+[stockpot](#)
 : keep up the feeding
 
-[monster shuffle]()
+[monster shuffle](#)
 : chrome browser extension to load newtabs with generated monsters
+
+[aom](#)
+: in development game
 
 [changewear.com](https://changewear.com)
 : shopify development
