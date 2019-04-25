@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-date: 2019-04-24
+date: 2019-04-25
 permalink: /projects/
 ---
 
@@ -17,6 +17,9 @@ permalink: /projects/
 
 [stockpot](#)
 : keep up the feeding
+
+[bankview](#)
+: a utility for looking over my bank data
 
 [monster shuffle](#)
 : chrome browser extension to load newtabs with generated monsters
