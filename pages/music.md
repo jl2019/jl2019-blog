@@ -4,7 +4,6 @@ title: Music
 date: 2019-04-24
 permalink: /music/
 ---
-Last Modified: {{ page.date | date: "%b %d, %Y" }}
 
 ---
 ## Playlists

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Projects
-date: 2019-04-20
+date: 2019-04-24
 permalink: /projects/
 ---
-Last Modified: {{ page.date | date: "%b %d, %Y" }}
 
 > No eternal reward will forgive us now for wasting the dawn.  
 > ~ JM

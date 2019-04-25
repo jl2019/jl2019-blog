@@ -4,9 +4,7 @@ title: Blog Developments
 date: 2019-04-24
 permalink: /dev-notes/
 ---
-Last Modified: {{ page.date | date: "%b %d, %Y" }}
 
-The stark white is nice for reading documents, but perhaps we can get some visual stuff going on too?
 ![from https://unsplash.com/@korpa](https://images.unsplash.com/photo-1516780508808-137eba9e614e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1029&q=80)
 
 Setting up features for this blog.

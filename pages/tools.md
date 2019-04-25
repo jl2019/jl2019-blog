@@ -4,7 +4,6 @@ title: Tools
 date: 2019-04-24
 permalink: /tools/
 ---
-Last Modified: {{ page.date | date: "%b %d, %Y" }}
 
 <style>
 .tool-block{
